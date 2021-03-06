@@ -1,0 +1,4 @@
+python-binance==0.7.9
+python-dateutil==2.8.1
+python-twitter==3.5
+requests==2.25.1
